@@ -10,10 +10,13 @@ https://raw.githubusercontent.com/romkatv/powerlevel10k-media/master/prompt-styl
 
 To see what Powerlevel10k is about, scroll through [features](#features).
 
+Ready to give Powerlevel10k a try? [Get Started](#get-started)
+
 Powerlevel9k users, go [here](#powerlevel9k-compatibility).
 
 ## Table of contents
 
+- [Get Started](#get-started)
 - [Features](#features)
   - [Configuration wizard](#configuration-wizard)
   - [Uncompromising performance](#uncompromising-performance)
@@ -51,7 +54,7 @@ Powerlevel9k users, go [here](#powerlevel9k-compatibility).
 - [FAQ](docs/faq.md)
 - [Troubleshooting](docs/troubleshooting.md)
 
-Ready to give Powerlevel10k a try?
+## Get Started
 
 1. Install [the recommended font](#meslo-nerd-font-patched-for-powerlevel10k). *Optional but highly
    recommended.*
