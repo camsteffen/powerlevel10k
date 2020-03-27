@@ -12,6 +12,45 @@ To see what Powerlevel10k is about, scroll through [features](#features).
 
 Powerlevel9k users, go [here](#powerlevel9k-compatibility).
 
+## Table of contents
+
+- [Features](#features)
+  - [Configuration wizard](#configuration-wizard)
+  - [Uncompromising performance](#uncompromising-performance)
+  - [Powerlevel9k compatibility](#powerlevel9k-compatibility)
+  - [Pure compatibility](#pure-compatibility)
+  - [Instant prompt](#instant-prompt)
+  - [Show on command](#show-on-command)
+  - [Transient prompt](#transient-prompt)
+  - [Current directory that just works](#current-directory-that-just-works)
+  - [Extremely customizable](#extremely-customizable)
+  - [Batteries included](#batteries-included)
+  - [Extensible](#extensible)
+- [Installation](#installation)
+  - [Manual](#manual)
+  - [Oh My Zsh](#oh-my-zsh)
+  - [Prezto](#prezto)
+  - [Zim](#zim)
+  - [Antibody](#antibody)
+  - [Antigen](#antigen)
+  - [Zplug](#zplug)
+  - [Zgen](#zgen)
+  - [Zplugin](#zplugin)
+  - [Zinit](#zinit)
+  - [Homebrew](#homebrew)
+  - [Arch Linux](#arch-linux)
+- [Configuration](#configuration)
+  - [For new users](#for-new-users)
+  - [For Powerlevel9k users](#for-powerlevel9k-users)
+- [Fonts](#fonts)
+  - [Meslo Nerd Font patched for Powerlevel10k](#meslo-nerd-font-patched-for-powerlevel10k)
+    - [Automatic font installation](#automatic-font-installation)
+    - [Manual font installation](#manual-font-installation)
+- [Try it in Docker](#try-it-in-docker)
+- [License](#license)
+- [FAQ](docs/faq.md)
+- [Troubleshooting](docs/troubleshooting.md)
+
 Ready to give Powerlevel10k a try?
 
 1. Install [the recommended font](#meslo-nerd-font-patched-for-powerlevel10k). *Optional but highly
@@ -31,8 +70,6 @@ Ready to give Powerlevel10k a try?
    - [Arch Linux](#arch-linux)
 1. Restart Zsh.
 1. Type `p10k configure` if the configuration wizard doesn't start automatically.
-
-The full [table of contents](#table-of-contents) is at the bottom.
 
 ## Features
 
@@ -565,42 +602,3 @@ running the Docker command to get access to all prompt styles.
 
 Powerlevel10k is released under the
 [MIT license](https://github.com/romkatv/powerlevel10k/blob/master/LICENSE).
-
-## Table of contents
-
-- [Features](#features)
-  - [Configuration wizard](#configuration-wizard)
-  - [Uncompromising performance](#uncompromising-performance)
-  - [Powerlevel9k compatibility](#powerlevel9k-compatibility)
-  - [Pure compatibility](#pure-compatibility)
-  - [Instant prompt](#instant-prompt)
-  - [Show on command](#show-on-command)
-  - [Transient prompt](#transient-prompt)
-  - [Current directory that just works](#current-directory-that-just-works)
-  - [Extremely customizable](#extremely-customizable)
-  - [Batteries included](#batteries-included)
-  - [Extensible](#extensible)
-- [Installation](#installation)
-  - [Manual](#manual)
-  - [Oh My Zsh](#oh-my-zsh)
-  - [Prezto](#prezto)
-  - [Zim](#zim)
-  - [Antibody](#antibody)
-  - [Antigen](#antigen)
-  - [Zplug](#zplug)
-  - [Zgen](#zgen)
-  - [Zplugin](#zplugin)
-  - [Zinit](#zinit)
-  - [Homebrew](#homebrew)
-  - [Arch Linux](#arch-linux)
-- [Configuration](#configuration)
-  - [For new users](#for-new-users)
-  - [For Powerlevel9k users](#for-powerlevel9k-users)
-- [Fonts](#fonts)
-  - [Meslo Nerd Font patched for Powerlevel10k](#meslo-nerd-font-patched-for-powerlevel10k)
-    - [Automatic font installation](#automatic-font-installation)
-    - [Manual font installation](#manual-font-installation)
-- [Try it in Docker](#try-it-in-docker)
-- [License](#license)
-- [FAQ](docs/faq.md)
-- [Troubleshooting](docs/troubleshooting.md)
